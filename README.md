@@ -1,4 +1,4 @@
-# Job Search Dashboard - A Tableau visualization project 
+# Job Search Dashboard - A Tableau Visualization Project 
 Data analysis project comparing different data-based jobs across the globe based on several factors.
 
 #### Table of Contents

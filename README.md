@@ -3,8 +3,8 @@ Data analysis project comparing different data-based jobs across the globe based
 
 #### Table of Contents
 - [Project Overview](#project-overview)
-- [Data Source](#data-source)
 - [Tableau Public Link](#tableau-public-link)
+- [Data Source](#data-source)
 - [Features](#features)
 - [Filters](#filters)
 - [Screenshots](#screenshots)
@@ -13,7 +13,7 @@ Data analysis project comparing different data-based jobs across the globe based
 This repository contains the Tableau dashboard project that provides a detailed visualization of job statistics in the field of data-related occupations. The dashboard is interactive and offers insights into average salaries by job category and experience level, job distribution by work setting, company sizes, and international salary comparisons.
 
 #### Tableau Public Link
-The interactive dashboard can be found on Tableau Public using the following link [Job search dashboard](https://public.tableau.com/app/profile/aman.mehra6957/viz/Jobsearchdashboard_17107166662760/Dashboard2?publish=yes)
+The Job Search dashboard can be found on Tableau Public using the following link [Job search dashboard](https://public.tableau.com/app/profile/aman.mehra6957/viz/Jobsearchdashboard_17107166662760/Dashboard2?publish=yes)
 
 #### Data Source
 The dataset used for this project can be found here [jobs in data](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data). It contains job posting information relating to jobs in data like job title, salary, work setting, company size, etc. 

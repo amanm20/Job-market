@@ -19,10 +19,10 @@ The Job Search dashboard can be found on Tableau Public using the following link
 ##### An overview of the dashboard
 <img width="1506" alt="Screenshot 2024-03-21 at 7 00 43 AM" src="https://github.com/amanm20/Job-market/assets/79020512/a25f952f-b542-40f4-a49f-a65fbbbd7373">
 
-##### Filtering for Data Scientist roles in USA
+##### Filtering for Data related jobs in Canada
 <img width="1506" alt="Screenshot 2024-03-21 at 7 02 52 AM" src="https://github.com/amanm20/Job-market/assets/79020512/ef5b864e-5b58-4e24-8f12-b3b94441aaed">
 
-##### Filtering for Data related jobs in Canada
+##### Filtering for Data Scientist roles in USA
 <img width="1506" alt="Screenshot 2024-03-21 at 7 02 28 AM" src="https://github.com/amanm20/Job-market/assets/79020512/220ca874-27a7-4563-a026-409dba2c466f">
 
 #### Data Source
